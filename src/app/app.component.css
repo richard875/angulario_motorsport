@@ -1,0 +1,29 @@
+.main_continer {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.main_continer h5 {
+  margin: 0 auto;
+  color: gray;
+}
+
+.title {
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.news_article {
+  margin: 0 auto;
+  padding-top: 20px;
+  width: 70%;
+}
+
+.detail_info {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  line-height: 35px;
+}
